@@ -4,81 +4,9 @@
   <artifactId>mp01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <dependencies>
-  		<!-- mp依赖
-  			 mybatisPlus 会自动的维护Mybatis 以及MyBatis-spring相关的依赖
-  			 风扇倒买倒卖的咖啡店fdas,fdm大幅度发地
-  			 DFSAADFSAFSDASDFSDFSDFSD
-  			 DFASADFSDFSADFSDFSDFSSD
-  			 方的未付款辣椒酱都分开了的看法经典款酸辣粉即可打开了积分低糖的安居堂 的数据付过款JFGKLD
-  		 -->
-		<dependency>
-		    <groupId>com.baomidou</groupId>
-		    <artifactId>mybatis-plus</artifactId>
-		    <version>2.3</version>
-		</dependency>		
-		<!--junit -->
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.9</version>
-		</dependency>
-		<!-- log4j -->
-		<dependency>
-			<groupId>log4j</groupId>
-			<artifactId>log4j</artifactId>
-			<version>1.2.17</version>
-		</dependency>
-		<!-- c3p0 -->
-		<dependency>
-			<groupId>com.mchange</groupId>
-			<artifactId>c3p0</artifactId>
-			<version>0.9.5.2</version>
-		</dependency>
-		<!-- mysql -->
-		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.37</version>
-		</dependency>
-		<!-- spring -->
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-context</artifactId>
-			<version>4.3.10.RELEASE</version>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-orm</artifactId>
-			<version>4.3.10.RELEASE</version>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-webmvc</artifactId>
-			<version>4.3.10.RELEASE</version>
-		</dependency>
-		
-		<!-- Apache velocity -->
-		<dependency>
-		    <groupId>org.apache.velocity</groupId>
-		    <artifactId>velocity-engine-core</artifactId>
-		    <version>2.0</version>
-		</dependency>
-		
-		<!-- sfl4j -->
-		 <dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-api</artifactId>
-			<version>1.7.7</version>
-		</dependency>
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.7</version>
-		</dependency>
-		
-  
-  </dependencies>
+dkf;aldksfkljadjklsf;adfjlsk;adfsljkadfsjk;adfsjsdfljksfdjk
+dsjkl;fadsjkl;adfsjkl;asdfajkls;df
+fdjkl;adfs;jklfljksdfj
   
   
 </project>
